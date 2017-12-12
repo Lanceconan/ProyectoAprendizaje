@@ -1,5 +1,3 @@
-# ProyectoAprendizaje
-
 Proyecto Aprendizaje Transversal en Entorno WEB
 ===============================================
 Proyecto de Prueba para utilizar la ingeniería inversa en cuanto al tratamiento de base de datos, desarrollado bajo diferentes plataformas de desarrollo:
