@@ -4,7 +4,7 @@ Proyecto de Prueba para utilizar la ingeniería inversa en cuanto al tratamiento
 + PHP Nativo
 + Laravel
 + CodeIgniter
-+ .NET
++ .NET (Framework Entity)
 + JSP (Spring Java)
 
 Entornos de Base de Datos Relacionales
