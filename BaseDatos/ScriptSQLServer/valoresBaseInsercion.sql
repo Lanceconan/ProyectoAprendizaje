@@ -76,3 +76,27 @@ INSERT INTO [dbo].[director]
            (11, 'NICOLAS JAVIER', 'LOPEZ', 'FERNANDEZ', '1983-03-16'),
            (12, 'SILVIO', 'CAIOZZI', 'GARCIA', '1944-07-03');
 GO
+
+/*INSERTAR REGISTROS BASE A LA TABLA PELICULA*/
+
+DELETE FROM [dbo].[pelicula];
+
+INSERT INTO [dbo].[pelicula]
+           ([idPelicula],
+          [nombrePelicula],
+          [anioPelicula],
+          [nacionalidadPelicula],
+          [calificacion],
+          [idUsuario])
+     VALUES
+           (1, 'STAR WARS - LA AMENAZA FANTASMA', 2000, '', '1944-05-14'),
+           (2, 'STAR WARS - EL ATAQUE DE LOS CLONES', 'TARANTINO', 'UNKNOW', '1963-03-27'),
+           (3, 'STAR WARS - LA VENGANZA DEL SITH', 'SCORSESE', 'UNKNOW', '1942-11-17'),
+           (4, 'STAR WARS - EL REGRESO DEL JEDI', 'KUBRICK', 'UNKNOW', '1928-07-26'),
+           (5, 'STAR WARS - UNA NUEVA ESPERANZA', 'SPIELBERG', 'UNKNOW', '1946-12-18'),
+           (6, 'STAR WARS - EL IMPERIO CONTRAATACA', 'HITCHCOCK', 'UNKNOW', '1899-08-13'),
+           
+           AGREGAR TABLA NACIONALIDAD
+           AGREGAR NACIONALIDAD A DIRECTOR
+           EMAIL A USUARIO Y ESA SERÁ SU ID
+           agregar nacioalidad al usuario
