@@ -63,6 +63,16 @@ INSERT INTO [dbo].[director]
            ,[apellidoMaternoDirector]
            ,[fechaNacimientoDirector])
      VALUES
-           (1, 'GEORGE', 'WALTON', 'LUCAS', '1944-05-14'),
-	   (1, 'GEORGE', 'WALTON', 'LUCAS', '1944-05-14');
+           (1, 'GEORGE WALTON', 'LUCAS', 'UNKNOW', '1944-05-14'),
+      	   (2, 'QUENTIN JEROME', 'TARANTINO', 'UNKNOW', '1963-03-27'),
+      	   (3, 'MARTIN CHARLES', 'SCORSESE', 'UNKNOW', '1942-11-17'),
+           (4, 'STANLEY', 'KUBRICK', 'UNKNOW', '1928-07-26'),
+           (5, 'STEVEN ALLAN', 'SPIELBERG', 'UNKNOW', '1946-12-18'),
+           (6, 'ALFRED JOSEPH', 'HITCHCOCK', 'UNKNOW', '1899-08-13'),
+           (7, 'TIMOTHY WALTER', 'BURTON', 'UNKNOW', '1958-08-25'),
+           (8, 'JAMES FRANCIS', 'CAMERON', 'UNKNOW', '1954-08-16'),           
+           (9, 'ANDRES', 'WOOD', 'MONTT', '1965-09-14'),
+           (10, 'MIGUEL ERNESTO', 'LITTIN', 'CUCUMIDES', '1945-08-09'),
+           (11, 'NICOLAS JAVIER', 'LOPEZ', 'FERNANDEZ', '1983-03-16'),
+           (12, 'SILVIO', 'CAIOZZI', 'GARCIA', '1944-07-03');
 GO
