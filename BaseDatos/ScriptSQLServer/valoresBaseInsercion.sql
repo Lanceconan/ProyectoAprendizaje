@@ -63,5 +63,6 @@ INSERT INTO [dbo].[director]
            ,[apellidoMaternoDirector]
            ,[fechaNacimientoDirector])
      VALUES
-           (1, 'GEORGE', 'LUCAS', 'UNKNOW', '1944-01-12');
+           (1, 'GEORGE', 'WALTON', 'LUCAS', '1944-05-14'),
+	   (1, 'GEORGE', 'WALTON', 'LUCAS', '1944-05-14');
 GO
