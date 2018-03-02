@@ -6,6 +6,7 @@ Proyecto de Prueba para utilizar la ingeniería inversa en cuanto al tratamiento
 + CodeIgniter
 + .NET (Framework Entity)
 + JSP (Spring Java)
++ Django (Python)
 
 Entornos de Base de Datos Relacionales
 ======================================
