@@ -1,9 +1,7 @@
 Proyecto Aprendizaje Transversal en Entorno WEB
 ===============================================
 Proyecto de Prueba para utilizar la ingeniería inversa en cuanto al tratamiento de base de datos, desarrollado bajo diferentes plataformas de desarrollo:
-+ PHP Nativo
 + Laravel
-+ CodeIgniter
 + .NET (Framework Entity)
 + JSP (Spring Java)
 + Django (Python)
