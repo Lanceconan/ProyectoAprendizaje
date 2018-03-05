@@ -20,3 +20,5 @@ Interfaces Gráficas WEB
 + JAVASCRIPT
 + Bootstrap
 + AJAX
++ Angular 5
++ Vue.js
